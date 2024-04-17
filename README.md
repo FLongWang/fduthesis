@@ -1,3 +1,15 @@
+# 开箱即用的fduthesis
+
+相比原latex模版，添加了以下内容：
+## 参考文献放置每章后
+## 增加中英文图表题(\subcaption{}{})
+## 页眉标题(左对齐)+章(右对齐)
+## 目录楷体->黑体
+## 前置页码大写罗马字体
+## 附录编码 A B C
+
+按照以下安装fduthesis后，直接使用`docs/main.tex`，无需额外配置。
+
 # fduthesis
 
 [![build](https://github.com/stone-zeng/fduthesis/workflows/build/badge.svg)](https://github.com/stone-zeng/fduthesis/actions)
